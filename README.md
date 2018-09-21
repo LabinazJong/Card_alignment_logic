@@ -1,6 +1,7 @@
 # 카드의 정렬 로직
 
 //내림차순 정렬 후 
+```
 void SortCardsinDescendingOrder()
 {
    descendingArayy[0] = blue;
@@ -21,7 +22,9 @@ void SortCardsinDescendingOrder()
      }
    }
 }
+```
 // 카드 오브젝트 내용에 재분배
+```
 void SortingCards()
 {
  for (int i = 0; i < num.Length; i++)
@@ -60,3 +63,4 @@ void SortingCards()
      }
   }
 }
+```
